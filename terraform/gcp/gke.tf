@@ -26,6 +26,6 @@ resource "google_container_node_pool" "custom_node_pool" {
   location = var.region
 
   node_config {
-    image_type = "Ubuntu"
+    image_type = "Debian"
   }
 }
