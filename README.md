@@ -2,7 +2,7 @@
 
 
 
-![Terragoat](terragoat-logo.png)
+![Company](company.jpg)
 
 
 
